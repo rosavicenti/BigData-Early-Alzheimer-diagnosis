@@ -32,6 +32,13 @@ Class labels:
 - AD (Alzheimer's Disease)  
 - MCI (Mild Cognitive Impairment)  
 - NC (Normal Control)
+- 
+##  Results Summary
+
+- The **multiview approach** outperformed miRNA-only models in some scenarios.
+- **Random Forest** achieved the best results overall, especially with batch size 256.
+- Cross-dataset performance was lower due to domain shift, but multiview still provided slight improvements.
+
 
 
 
