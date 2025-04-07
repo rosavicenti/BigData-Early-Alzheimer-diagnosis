@@ -32,7 +32,7 @@ Class labels:
 - AD (Alzheimer's Disease)  
 - MCI (Mild Cognitive Impairment)  
 - NC (Normal Control)
-- 
+  
 ##  Results Summary
 
 - The **multiview approach** outperformed miRNA-only models in some scenarios.
