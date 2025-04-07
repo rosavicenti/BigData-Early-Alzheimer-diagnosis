@@ -22,7 +22,7 @@ Three experimental settings were evaluated:
 
 Batch sizes of **3** and **256** were tested to study performance and efficiency.
 
-## 💾 Datasets
+## Datasets
 
 Two datasets were used:
 - `df_microarray`: Aggregated from public datasets using the microarray technique.
